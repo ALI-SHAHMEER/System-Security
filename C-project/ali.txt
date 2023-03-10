@@ -1,0 +1,3 @@
+Ali Shahmeer Account
+BTC = 25
+ETH = 100
